@@ -1,0 +1,5 @@
+model_weights:
+  person_model: /hadoop/person_v4.engine
+  helmet_model: /hadoop/xdect3.engine
+hdfs:
+  url: http://10.122.116.201:50070

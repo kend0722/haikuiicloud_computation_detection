@@ -1,0 +1,5 @@
+model_weights:
+  person_model: /hadoop/person_v4.pt
+  helmet_model: /hadoop/xdect3.pt
+hdfs:
+  url: http://node02:50070

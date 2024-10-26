@@ -1,0 +1,7 @@
+yolov5~=7.0.13
+hdfs~=2.7.3
+opencv-python~=4.10.0.82
+numpy~=1.26.4
+fastapi~=0.114.2
+starlette~=0.38.5
+pydantic~=2.9.1
